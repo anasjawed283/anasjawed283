@@ -1,11 +1,7 @@
 
-
-
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200"/>
 </div>
-
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/anas-jawed-webdev-enthusiast/">
@@ -24,15 +20,13 @@
 </div>
 
 
-
 ![68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966](https://user-images.githubusercontent.com/103234658/210417080-fb16008a-15cd-4766-b373-95914b2e3e43.gif)
 
 
 
-<h2>👨🏻‍💻  About Me</h2>
+<h2>👨🏻‍💻  About Me:</h2>
 
 🎓  I'm currently undergraduate in Computer Science Engineering with specialization in AI & Robotics at Vellore Institute of Technology, Chennai.
-
 
 💡  I like to explore new AI based websites and new tech in terms of web application.
 
@@ -42,11 +36,19 @@
 
 📧  You can contact me at anasjawed283@gmail.com . I would try to respond as soon as possible.
 
-<h3><b>Visitors</b></h3>
+<h3><b>Visitors:</b></h3>
 
 ![Visitor Count](https://profile-counter.glitch.me/{anasjawed283}/count.svg)
 
 
+### :hammer_and_wrench: Languages and Tools :
 
 
 
+
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anasjawed283&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anasjawed283&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
