@@ -2,7 +2,6 @@
   
 ![1641960370683](https://user-images.githubusercontent.com/103234658/210394508-4acada58-4db4-4515-afbe-eaa641b67625.jpeg)
 
-![Visitor Count](https://profile-counter.glitch.me/{anasjawed283}/count.svg)
 
 <h2>👨🏻‍💻  About Me</h2>
 
@@ -17,4 +16,6 @@
 
 📧  You can contact me at anasjawed283@gmail.com . I would try to respond as soon as possible.
 
+<h3><b>Visitors</b></h3>
 
+![Visitor Count](https://profile-counter.glitch.me/{anasjawed283}/count.svg)
