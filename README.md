@@ -1,11 +1,9 @@
 
-<div id="header" align="center">
-  <h1>Hey There Developers👋! I'm <b>Anas Jawed</b></h1>
-</div>
+
 
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200"/>
 </div>
 
 
@@ -21,11 +19,15 @@
   </a>
 </div>
 
-
-
-<div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="1000" height="250"/>
+<div id="header" align="center">
+  <h1>Hey There Developers👋! I'm <b>Anas Jawed</b></h1>
 </div>
+
+
+
+![68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966](https://user-images.githubusercontent.com/103234658/210417080-fb16008a-15cd-4766-b373-95914b2e3e43.gif)
+
+
 
 <h2>👨🏻‍💻  About Me</h2>
 
