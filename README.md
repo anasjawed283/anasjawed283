@@ -16,8 +16,8 @@
   <a href="https://instagram.com/anas_jawed9484">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Mail-gray?style=for-the-badge&logo=Gmail&logoColor=red" alt="Gmail Badge"/>
+  <a href="[your-twitter-URL](https://www.quora.com/profile/Anas-Jawed-19)">
+    <img src="https://img.shields.io/badge/Quora-white?style=for-the-badge&logo=Quora&logoColor=red" alt="Quora Badge"/>
   </a>
 </div>
 
