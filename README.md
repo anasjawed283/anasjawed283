@@ -1,7 +1,8 @@
-                                                HELLO WORLD 👋 I AM ANAS JAWED
+<center><h1>Hey There Developers! I'm <b>Anas Jawed</b></h1></center>
+  
 ![1641960370683](https://user-images.githubusercontent.com/103234658/210394508-4acada58-4db4-4515-afbe-eaa641b67625.jpeg)
 
-👨🏻‍💻  <--About Me-->
+👨🏻‍💻  <h1>*About Me*</h1>
 
 🎓  I'm currently undergraduate in Computer Science Engineering with specialization in AI & Robotics at Vellore Institute of Technology, Chennai.
 
