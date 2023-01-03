@@ -1,6 +1,8 @@
-##👨🏻‍💻 About Me
+![1641960370683](https://user-images.githubusercontent.com/103234658/210394508-4acada58-4db4-4515-afbe-eaa641b67625.jpeg)
+👨🏻‍💻  <--About Me-->
 
 🎓  I'm currently undergraduate in Computer Science Engineering with specialization in AI & Robotics at Vellore Institute of Technology, Chennai.
+
 
 💡  I like to explore new AI based websites and new tech in terms of web application.
 
