@@ -2,6 +2,8 @@
   
 ![1641960370683](https://user-images.githubusercontent.com/103234658/210394508-4acada58-4db4-4515-afbe-eaa641b67625.jpeg)
 
+![Visitor Count](https://profile-counter.glitch.me/{anasjawed283}/count.svg)
+
 <h2>👨🏻‍💻  About Me</h2>
 
 🎓  I'm currently undergraduate in Computer Science Engineering with specialization in AI & Robotics at Vellore Institute of Technology, Chennai.
@@ -14,3 +16,5 @@
 ✍️  In my free time, I work upon UI UX Designing, Computer Added Designing(Robotics) and Wordpress FreeLancing.
 
 📧  You can contact me at anasjawed283@gmail.com . I would try to respond as soon as possible.
+
+
