@@ -36,9 +36,6 @@
 
 📧  You can contact me at anasjawed283@gmail.com . I would try to respond as soon as possible.
 
-<h3><b>Visitors:</b></h3>
-
-![Visitor Count](https://profile-counter.glitch.me/{anasjawed283}/count.svg)
 
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -63,3 +60,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anasjawed283&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anasjawed283&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<h3><b>Visitors:</b></h3>
+
+![Visitor Count](https://profile-counter.glitch.me/{anasjawed283}/count.svg)
