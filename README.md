@@ -29,7 +29,7 @@
   <a href="https://www.linkedin.com/in/anas-jawed-webdev-enthusiast/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="instagram.com/anas_jawed9484">
+  <a href="https://instagram.com/anas_jawed9484">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="your-twitter-URL">
