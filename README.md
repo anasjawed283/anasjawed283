@@ -13,12 +13,24 @@
   <a href="https://quora.com/profile/Anas-Jawed-19">
     <img src="https://img.shields.io/badge/Quora-grey?style=for-the-badge&logo=Quora&logoColor=red" alt="Quora Badge"/>
   </a>
+  
+  <a href="https://github.com/anasjawed283">
+    <img src="https://img.shields.io/badge/github-purple?style=for-the-badge&logo=github&logoColor=white" alt="Quora Badge"/>
+  </a>
+  
 </div>
 
 <div id="header" align="center">
   <h1>Hey There Developers👋! I'm <b>Anas Jawed</b></h1>
 </div>
-
+<!--
+<a href="https://github.com/anasjawed283"><img src="https://img.shields.io/github/stars/anasjawed283" alt="Stars Badge"/></a>
+<a href="https://github.com/anasjawed283"><img src="https://img.shields.io/github/forks/anasjawed283" alt="Forks Badge"/></a>
+<a href="https://github.com/anasjawed283"><img src="https://img.shields.io/github/issues-pr/anasjawed283" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/anasjawed283"><img src="https://img.shields.io/github/issues/anasjawed283/awesome-github-profile-readme" alt="Issues Badge"/></a>
+<a href="https://github.com/anasjawed283/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors"src="https://img.shields.io/github/contributors/anasjawed283?color=2b9348"></a>
+<a href="https://github.com/anasjawed283"><img src="https://img.shields.io/github/license/anasjawed283?color=2b9348" alt="License Badge"/></a>
+-->
 
 ![68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966](https://user-images.githubusercontent.com/103234658/210417080-fb16008a-15cd-4766-b373-95914b2e3e43.gif)
 
@@ -59,8 +71,8 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anasjawed283&theme=dark&background=000000)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anasjawed283&theme=tokyonight)
-
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anasjawed283&theme=tokyonight)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anasjawed283)](https://github.com/anasjawed283/github-readme-stats)
 <h3><b>Visitors:</b></h3>
 
 ![Visitor Count](https://profile-counter.glitch.me/{anasjawed283}/count.svg)
