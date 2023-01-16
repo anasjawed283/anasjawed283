@@ -76,3 +76,8 @@
 <h3><b>Visitors:</b></h3>
 
 ![Visitor Count](https://profile-counter.glitch.me/{anasjawed283}/count.svg)
+
+<div id="header" align="center">
+  <h3>NOTE: Instead of copying (to Use) the code just fork the repository📲</b></h1>
+  <h3>Any sort of Pull Request is Highly Appritiated📢</h3>
+</div>
