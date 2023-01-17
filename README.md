@@ -74,8 +74,8 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anasjawed283)](https://github.com/anasjawed283/github-readme-stats)-->
 <p align="left">
 <a href="https://github.com/anasjawed283">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anasjawed283&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anasjawed283&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anasjawed283&show_icons=true&theme=dark&background=000000&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anasjawed283&layout=compact&langs_count=8&theme=dark&background=000000"/>
 </a>
 </p>
 
