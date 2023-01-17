@@ -70,9 +70,15 @@
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anasjawed283&theme=dark&background=000000)](https://git.io/streak-stats)
-
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anasjawed283&theme=tokyonight)-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anasjawed283)](https://github.com/anasjawed283/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anasjawed283)](https://github.com/anasjawed283/github-readme-stats)-->
+<p align="left">
+<a href="https://github.com/anasjawed283">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anasjawed283&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anasjawed283&layout=compact&langs_count=8&theme=tokyonight"/>
+</a>
+</p>
+
 <h3><b>Visitors:</b></h3>
 
 ![Visitor Count](https://profile-counter.glitch.me/{anasjawed283}/count.svg)
