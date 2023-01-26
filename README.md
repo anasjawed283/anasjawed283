@@ -76,6 +76,12 @@
 ![Visitor Count](https://profile-counter.glitch.me/{anasjawed283}/count.svg)
 
 <div id="header" align="center">
-  <h3>NOTE: Instead of copying (to Use) the code just fork the repository📲</b></h1>
   <h3>Any sort of Pull Request is Highly Appritiated📢</h3>
+</div>
+
+
+<div id="badges" align="center">
+  <a href="https://github.com/anasjawed283/anasjawed283/discussions/1">
+    <img src="https://img.shields.io/badge/Click Here For Discussions And To Ask Questions-black?style=for-the-badge&logo=github&logoColor=white" alt="github Badge"/>
+  </a>
 </div>
