@@ -15,7 +15,10 @@
   </a>
   
   <a href="https://github.com/anasjawed283">
-    <img src="https://img.shields.io/badge/github-purple?style=for-the-badge&logo=github&logoColor=white" alt="Quora Badge"/>
+    <img src="https://img.shields.io/badge/github-purple?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
+  </a>
+  <a href="https://anasjawed283.github.io">
+    <img src="https://img.shields.io/badge/GithubPage-lime?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
   </a>
   
 </div>
