@@ -1,6 +1,10 @@
 
-<div id="header" align="center">
+<!-- <div id="header" align="center">
   <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200"/>
+</div> -->
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif" width="300"/>
 </div>
 
 <div id="badges" align="center">
