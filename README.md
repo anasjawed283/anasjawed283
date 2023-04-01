@@ -76,6 +76,9 @@
 </a>
 </p>
 
+
+<a href="http://www.github.com/anasjawed283"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=anasjawed283&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Analysis" alt="GitHub Commits Graph" /></a>
+
 <h3><b>Visitors:</b></h3>
 
 ![Visitor Count](https://profile-counter.glitch.me/{anasjawed283}/count.svg)
