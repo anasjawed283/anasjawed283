@@ -87,6 +87,41 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/{anasjawed283}/count.svg)
 
+
+
+<h3><b>Top Repositories:</b></h3>
+
+
+<div id="badges" align="center">
+  <a href="https://github.com/anasjawed283/Data-Structures">
+    <img src="https://img.shields.io/badge/Data Structures-black?style=for-the-badge&logo=github&logoColor=white" alt="github Badge"/>
+  </a>
+
+  <a href="https://github.com/anasjawed283/CodeForces_Solutions">
+    <img src="https://img.shields.io/badge/CodeForces Solutions-black?style=for-the-badge&logo=github&logoColor=white" alt="github Badge"/>
+  </a>
+
+  <a href="https://github.com/anasjawed283/Java_Exam_Codes">
+    <img src="https://img.shields.io/badge/Java Practice-black?style=for-the-badge&logo=github&logoColor=white" alt="github Badge"/>
+  </a>
+
+  <a href="https://github.com/anasjawed283/Computer_Networks">
+    <img src="https://img.shields.io/badge/Computer Networks-black?style=for-the-badge&logo=github&logoColor=white" alt="github Badge"/>
+  </a>
+
+  <a href="https://github.com/anasjawed283/WebDev.FreeWebsiteCodes">
+    <img src="https://img.shields.io/badge/WebDev Elements-black?style=for-the-badge&logo=github&logoColor=white" alt="github Badge"/>
+  </a>
+
+  <a href="https://github.com/anasjawed283/Open_For_All">
+    <img src="https://img.shields.io/badge/Open For All-black?style=for-the-badge&logo=github&logoColor=white" alt="github Badge"/>
+  </a>
+
+  <a href="https://github.com/anasjawed283/Assembly_Microprocessors">
+    <img src="https://img.shields.io/badge/Assembly-black?style=for-the-badge&logo=github&logoColor=white" alt="github Badge"/>
+  </a>
+</div>
+
 <div id="header" align="center">
   <h3>Any sort of Pull Request is Highly Appritiated📢</h3>
 </div>
