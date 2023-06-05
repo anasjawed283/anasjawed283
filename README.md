@@ -49,7 +49,7 @@
 
 
 
-### :hammer_and_wrench: Languages and Tools :
+<!-- ### :hammer_and_wrench: Languages and Tools :
 
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
@@ -63,11 +63,87 @@
 ![Wordpress](https://img.shields.io/badge/-Wordpress-05122A?style=flat&logo=Wordpress&logoColor=007ACC)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![Canva](https://img.shields.io/badge/-Canva-05122A?style=flat&logo=adobe-canva)
+ -->
 
+
+
+<h2 align='center'><i>Languages and Tools</i></h2>
+
+<table width="100">
+<tr>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png" width="100">
+    </td>
+     <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
+    </td>
+    <td align='center'  width="190">
+        <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg">
+    </td>
+</tr>
+ <tr>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
+    </td>
+     <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
+    </td>
+    <td align='center' width="190">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" width="60">
+    </td>
+    <td align='center'>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" width="60">
+    </td>
+</tr>
+<tr>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/r-project/r-project-ar21.svg">
+    </td>
+    <td align='center' width="190">
+        <img src="https://benjaminwhiteside.files.wordpress.com/2021/09/gnu-octave-logo-lnx.png?w=816">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg">
+    </td>
+</tr>
+  
+  
+  <tr>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg">
+    </td>
+    <td align='center' width="190">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo-tinkercad-wordmark.svg/1280px-Logo-tinkercad-wordmark.svg.png">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.pngmart.com/files/22/Photoshop-Logo-PNG-HD-Isolated.png">
+    </td>
+    <td align='center'>
+        <img src="https://1000logos.net/wp-content/uploads/2021/04/MATLAB-logo.png">
+    </td>
+</tr>
+</table>
 
 
 ### :fire: My Stats :
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anasjawed283&theme=dark&background=000000)](https://git.io/streak-stats)
 <p align="left">
 <a href="https://github.com/anasjawed283">
@@ -75,13 +151,6 @@
   
   <a href="https://github.com/anasjawed283" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasjawed283&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
   
-  
-<!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anasjawed283&layout=compact&langs_count=8&theme=dark&background=000000"/>
-</a> -->
-</p>
-
-
-<!-- <a href="http://www.github.com/anasjawed283"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=anasjawed283&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Analysis" alt="GitHub Commits Graph" /></a> -->
   
   [![Anas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anasjawed283&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -134,3 +203,7 @@
     <img src="https://img.shields.io/badge/Click Here For Discussions And To Ask Questions-black?style=for-the-badge&logo=github&logoColor=white" alt="github Badge"/>
   </a>
 </div>
+
+
+
+
