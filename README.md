@@ -81,7 +81,9 @@
 </p>
 
 
-<a href="http://www.github.com/anasjawed283"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=anasjawed283&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Analysis" alt="GitHub Commits Graph" /></a>
+<!-- <a href="http://www.github.com/anasjawed283"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=anasjawed283&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Analysis" alt="GitHub Commits Graph" /></a> -->
+  
+  [![Anas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anasjawed283&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h3><b>Visitors:</b></h3>
 
