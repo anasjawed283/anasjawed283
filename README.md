@@ -164,10 +164,10 @@
 
 
 
-<h3><b>Top Repositories:</b></h3>
 
 
-<div id="badges" align="center">
+
+<!-- <div id="badges" align="center">
   <a href="https://github.com/anasjawed283/Data-Structures">
     <img src="https://img.shields.io/badge/Data Structures-black?style=for-the-badge&logo=github&logoColor=white" alt="github Badge"/>
   </a>
@@ -195,7 +195,7 @@
   <a href="https://github.com/anasjawed283/Assembly_Microprocessors">
     <img src="https://img.shields.io/badge/Assembly-black?style=for-the-badge&logo=github&logoColor=white" alt="github Badge"/>
   </a>
-</div>
+</div> -->
 
 <div id="header" align="center">
   <h3>Any sort of Pull Request is Highly Appritiated📢</h3>
@@ -208,6 +208,10 @@
   </a>
 </div>
 
+<h3><b>🔥Top Repositories:🔥</b></h3>
 
-
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anasjawed283&repo=R-Programming)](https://github.com/anasjawed283/R-Programming)
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anasjawed283&repo=LearnSQL)](https://github.com/anasjawed283/LearnSQL)
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anasjawed283&repo=Data-Structures)](https://github.com/anasjawed283/Data-Structures)
