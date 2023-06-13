@@ -215,3 +215,19 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anasjawed283&repo=LearnSQL)](https://github.com/anasjawed283/LearnSQL)
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anasjawed283&repo=Data-Structures)](https://github.com/anasjawed283/Data-Structures)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anasjawed283&repo=Codeforces-Solutions)](https://github.com/anasjawed283/CodeForces-Solutions)
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anasjawed283&repo=IOT-Projects)](https://github.com/anasjawed283/IOT-Projects)
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anasjawed283&repo=WebDevFreeWebsiteCodes)](https://github.com/anasjawed283/WebDevFreeWebsiteCodes)
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anasjawed283&repo=Assembly-Microprocessors)](https://github.com/anasjawed283/Assembly-Microprocessors)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anasjawed283&repo=Assembly-Microprocessors)](https://github.com/anasjawed283/Assembly-Microprocessors)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anasjawed283&repo=Java-Exam-Codes)](https://github.com/anasjawed283/Java-Exam-Codes)
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anasjawed283&repo=Open-For-All)](https://github.com/anasjawed283/Open-For-All)
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anasjawed283&repo=Computer-Networks)](https://github.com/anasjawed283/Computer-Networks)
