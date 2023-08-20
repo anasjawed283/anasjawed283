@@ -208,7 +208,7 @@
   </a>
 </div>
 
-<h3><b>🔥Top Repositories:🔥</b></h3>
+<!--<h3><b>🔥Top Repositories:🔥</b></h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anasjawed283&repo=R-Programming)](https://github.com/anasjawed283/R-Programming)
   
@@ -231,3 +231,4 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anasjawed283&repo=Open-For-All)](https://github.com/anasjawed283/Open-For-All)
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anasjawed283&repo=Computer-Networks)](https://github.com/anasjawed283/Computer-Networks)
+-->
