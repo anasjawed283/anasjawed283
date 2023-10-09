@@ -196,11 +196,11 @@
     <img src="https://img.shields.io/badge/Assembly-black?style=for-the-badge&logo=github&logoColor=white" alt="github Badge"/>
   </a>
 </div> -->
-
+<!--
 <div id="header" align="center">
   <h3>Any sort of Pull Request is Highly Appritiated📢</h3>
 </div>
-
+-->
 
 <div id="badges" align="center">
   <a href="https://github.com/anasjawed283/anasjawed283/discussions/1">
