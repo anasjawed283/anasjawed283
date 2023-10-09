@@ -32,8 +32,9 @@
 </div>
 
 <!-- ![68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966](https://user-images.githubusercontent.com/103234658/210417080-fb16008a-15cd-4766-b373-95914b2e3e43.gif) -->
-[![An image of @anasjawed283's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anasjawed283)](https://holopin.io/@anasjawed283)
 <!--![68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966](https://www.instavyapar.com/images/inner-page/CMS-web-development.gif)-->
+
+[![An image of @anasjawed283's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anasjawed283)](https://holopin.io/@anasjawed283)
 
 <h2>👨🏻‍💻  About Me:</h2>
 
