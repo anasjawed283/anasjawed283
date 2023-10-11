@@ -31,7 +31,7 @@
   <h1>Hey There Developers👋! I'm <b>Anas Jawed</b></h1>
 </div>
 
-
+[![An image of @anasjawed283's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anasjawed283)](https://holopin.io/@anasjawed283)
 
 <h2>👨🏻‍💻  About Me:</h2>
 
