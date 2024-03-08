@@ -1,4 +1,8 @@
-
+<p align="center">Greetings Earthlings 🌌I'm</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anasjawed283&style=flat-square&color=blue" style="margin: 0 auto; display: block;" />
+  <img src="https://img.shields.io/github/stars/anasjawed283?affiliations=OWNER&color=%23ffe411&label=github%20stars&logo=github&logoColor=%23fffFF&style=flat" style="margin: 0 auto; display: block;" />
+</p>
 <!-- <div id="header" align="center">
   <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200"/>
 </div> -->
