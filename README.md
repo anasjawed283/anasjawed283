@@ -57,7 +57,9 @@ My goal is to bring my technical skills and enthusiasm for learning to a forward
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------- -->
 <h2 align='center'>🏆<i>GitHub Trophies</i>🏆</h2>
 
+
 ![](https://github-profile-trophy.vercel.app/?username=anasjawed283&theme=gitdimmed&no-frame=false&no-bg=false&margin-w=4)
+
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------- -->
 
