@@ -25,15 +25,18 @@ My proficiency extends to the exciting realm of Internet of Things (IOT) based p
 
 My goal is to bring my technical skills and enthusiasm for learning to a forward-looking organization as a Cloud Intern and Software Developer Intern. I am eager to leverage my capabilities to contribute meaningfully to projects that push the boundaries of technology.</p>
 
-<h2 align='center'> </h2>
-
-[![An image of @anasjawed283's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anasjawed283)](https://holopin.io/@anasjawed283)
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------- -->
-<br>
+
 <h2 align='center'>🛠️<i>Languages and Tools</i>🛠️</h2>
   <a href="https://skillicons.dev" align="center">
     <img align="center" src="https://skillicons.dev/icons?i=html,css,js,typescript,react,tailwind,bootstrap,nextjs,git,github,aws,azure,wordpress,figma,vercel,c,cpp,java,python,r,linux,ubuntu,ros,octave,autocad,arduino,matlab" /></a>
 <br>
+<!-- --------------------------------------------------------------------------------------------------------------------------------------------- -->
+<br>
+<h2 align='center'>✅<i>Hacktoberfest 2023</i>✅</h2>
+
+[![An image of @anasjawed283's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anasjawed283)](https://holopin.io/@anasjawed283)
+
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------- -->
 <br>
 <div style="display: flex; align-items: center; justify-content: center;">
