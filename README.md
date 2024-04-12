@@ -47,13 +47,13 @@ My goal is to bring my technical skills and enthusiasm for learning to a forward
     </a>
   </div>
   
-<!--
+
   <div>
     <a href="https://git.io/streak-stats">
       <img src="http://github-readme-streak-stats.herokuapp.com?user=anasjawed283&theme=dark&background=000000" alt="GitHub Streak">
     </a>
   </div>
--->
+
   [![Anas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anasjawed283&theme=react-dark)](https://github.com/anasjawed283/github-readme-activity-graph)
 
 </div>
