@@ -16,14 +16,40 @@
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------- -->
 <br>
-<h2 align='center'>👉<i>About Me</i>👈</h2>
-<p>I am a dedicated and passionate front-end web developer with a keen interest in Software Development and Cloud Computing.Currently, I am actively seeking opportunities in both domains to further expand my skills and contribute to innovative projects.
-  
-In my journey as a programmer, I have honed my expertise in various programming languages, with a strong focus on front-end web development.
 
-My proficiency extends to the exciting realm of Internet of Things (IOT) based product development and Python-based software development. This diverse skill set allows me to approach projects with a comprehensive and adaptable mindset.
+ ## Who am I?
+ ```python
+ class WhoAmI:
+ 	user = 'Anas Jawed'
+		current_edu = "CSE Final Year, Vellore Institute of Technology"
+		Top Skills = [
+				'UI/UX Design',
+				'Cloud Computing',
+				'IOT Hardware and Robotics'
+				'Overthinking'
+			]
+	
+	def getCity():
+		return Gaya_Bihar()
+	
+	def getAmbitions():
+		SoftwareDevelopment()
+		ComputerNetworking()
+		FullStackDevelopment()
+		
+    def getCertifications ():
+	    AWS Certified Developer- Associate()
+	    AWS Certified Solutions Architect- Associate()
+        AWS Certified Cloud Practitioner()
+        NPTEL Cloud Computing - IIT Kharagpur()
+        Cloud Computing Training - Corizo Pvt.Ltd()
+        Enterprise Automation - Workato()
+        Packet Tracer - Cisco Network Academy()
 
-My goal is to bring my technical skills and enthusiasm for learning to a forward-looking organization as a Cloud Intern and Software Developer Intern. I am eager to leverage my capabilities to contribute meaningfully to projects that push the boundaries of technology.</p>
+    def NewInterests():
+        return ['AI', 'AWS-Security', 'Cryptography']
+		
+ ```
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------- -->
 
