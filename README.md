@@ -24,6 +24,7 @@
 		current_edu = "CSE Final Year, Vellore Institute of Technology"
 		Top Skills = [
 				'UI/UX Design',
+				'Wordpress Freelancing'
 				'Cloud Computing',
 				'IOT Hardware and Robotics'
 				'Overthinking'
